@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'PAT-C'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0C62A9289932433DAF68213506945C5C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FECF236029AF461FB59E2850A50ED1B1 }}
           package: .
